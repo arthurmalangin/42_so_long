@@ -27,4 +27,4 @@ $ ./so_long map/map2.ber
   *  https://42.nauman.cc/2023/09/22/intermediate-c-mlx
   *  https://reactive.so/post/42-a-comprehensive-guide-to-so_long
 
-* Converter PNG to XMP: https://convertio.co/png-xpm/
+* Converter PNG to XPM: https://convertio.co/png-xpm/

@@ -2,6 +2,10 @@
 
 _There is my So_long project for 42 school ⚠️Spaghetti Warning⚠️_
 
+<div align="center">
+  <img width="1439" alt="image" src="https://github.com/arthurmalangin/42_so_long/assets/152140753/e2968791-8ddc-4d66-9edd-4012460733e5">
+</div>
+
 ## Global
 
 Make a 2D Game with the MLX Library

@@ -3,7 +3,7 @@
 _There is my So_long project for 42 school ⚠️Spaghetti Warning⚠️_
 
 <div align="center">
-  <img width="1439" alt="image" src="https://github.com/arthurmalangin/42_so_long/assets/152140753/e2968791-8ddc-4d66-9edd-4012460733e5">
+  <img width="1439" alt="image" src="https://github.com/arthurmalangin/42_so_long/assets/152140753/a342e3c8-874a-4027-9394-7bb4d1b7d263">
 </div>
 
 ## Global
